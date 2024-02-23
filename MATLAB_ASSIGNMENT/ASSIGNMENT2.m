@@ -1,6 +1,6 @@
 %clear
 clear
-clc
+clc 
 close all
 syms s
 %% Assignment #2
