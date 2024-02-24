@@ -3,7 +3,6 @@ This is an Activity. Group 4 CSE activity.
 
 Assignment 1
 
-Inverse Laplace 
 
 [Uploading ASS1_LAPLACE_TRANSFORM.m…]()%%clc
 syms t
