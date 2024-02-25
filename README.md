@@ -12,4 +12,6 @@ II. INVERSE LAPLACE TRANSFORM
 
 III. INVERSE LAPLACE TRANSFORM
 
-
+![CamScanner 02-25-2024 19 54_1](https://github.com/CullosK/CSE_Laplace-InverseLaplace_MEXE_3202_GROUP4_2024/assets/158303837/4e15e360-d086-4bfb-9c71-c234864fb972)
+![CamScanner 02-25-2024 19 54_2](https://github.com/CullosK/CSE_Laplace-InverseLaplace_MEXE_3202_GROUP4_2024/assets/158303837/320eee20-2891-43e9-8167-e73746c1a744)
+![CamScanner 02-25-2024 20 11](https://github.com/CullosK/CSE_Laplace-InverseLaplace_MEXE_3202_GROUP4_2024/assets/158303837/7367638c-3866-4ba8-8bbf-0f2ccb05b975)
