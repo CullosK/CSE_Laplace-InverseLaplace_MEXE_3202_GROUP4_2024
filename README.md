@@ -1,4 +1,15 @@
 # G4_MATLAB-ACTIVIES
-This is an Activity. Group 4 CSE activity. 
 
-Scan copy of the written solutions
+SCAN COPY OF THE WRITTEN SOLUTIONS
+
+I. LAPLACE TRANSFORM
+
+![ASS1_laplace](https://github.com/CullosK/G4_MATLAB-ACTIVIES_2024/assets/157685794/5271f8b5-2f28-4523-97ef-adcbbfcaa0f3)
+
+II. INVERSE LAPLACE TRANSFORM
+
+![ASS1_ilaplace](https://github.com/CullosK/G4_MATLAB-ACTIVIES_2024/assets/157685794/1d85228c-3da9-49e6-baaa-1b725ef72db4)
+
+III. INVERSE LAPLACE TRANSFORM
+
+
